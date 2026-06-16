@@ -1,6 +1,4 @@
-Bhai, tere is assignment ke liye bhi ekdum seedhe, saaf aur simple answers likh diye hain. Tu isse bina kisi darr ke direct copy-paste kar sakta hai.
 
-Section 1: Basic Conditional Concepts
 Question 1: What is a conditional statement in programming?
 A conditional statement is a feature in programming that allows the code to make decisions and execute different blocks of code based on whether a condition is true or false.
 
@@ -34,9 +32,6 @@ Condition: num % 2 == 0
 Question 10: How can you check if a number is odd?
 A number is odd if it leaves a remainder of 1 (or not 0) when divided by 2.
 Condition: num % 2 != 0
-
-Question 11: What is the purpose of else-if?
-The purpose of else if is to check multiple alternative conditions one after another if the first if statement fails.
 
 Question 12: What is a nested if statement?
 A nested if statement is an if statement placed entirely inside another if or else block.
